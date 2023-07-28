@@ -1,0 +1,4 @@
+TYPE = sCALL2/Classic; 
+SPAN = LEVEL1-3:*1-64;*65-128;*129-192;
+LINGUAL = #ChessinYoruba;
+URL = #
